@@ -1,2 +1,2 @@
-# Weapon-Detection_Muneeb_YOLO
+# Weapon-Detection_YOLO
 FYP-Muneeb Azam
